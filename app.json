@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/BuckridgeRhea/xray-dd",
+    "repository": "https://github.com/BuckridgeRhea/xray-dan",
     "stack": "container"
 }
